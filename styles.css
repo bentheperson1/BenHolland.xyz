@@ -4,6 +4,7 @@ body {
     background-color: #2a324e;
     text-align: center;
     color: whitesmoke;
+    letter-spacing: 2px;
 }
 
 h1 {
@@ -71,10 +72,22 @@ img {
     border-radius: 10px;
 }
 
+.myButton {
+	background-color:#566ea0;
+	border-radius:5%;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	padding:1px 10px;
+    text-decoration:none;
+    display:inline-block;
+}
+
 .column img {
-margin-top: 8px;
-vertical-align: middle;
-width: 100%;
+    margin-top: 8px;
+    vertical-align: middle;
+    width: 100%;
 }
 
 .seperation {
